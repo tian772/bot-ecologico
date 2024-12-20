@@ -61,4 +61,4 @@ async def maceta_r(ctx):
     # A continuación, podemos enviar este archivo como parámetro.
     await ctx.send(file=picture)
 
-bot.run("MTI4MTc3NzcxOTQ4NjcxMzkyOA.GFSXTq.lZuqwaCr_hY1D0F5w4y660bMW2AH_CVWxUbSGk")
+bot.run("k")
